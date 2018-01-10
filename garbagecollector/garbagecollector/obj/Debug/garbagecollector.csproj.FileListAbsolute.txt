@@ -86,3 +86,4 @@ C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\D
 C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\Debug\garbagecollector.Migrations.City.resources
 C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\Debug\garbagecollector.Migrations.State.resources
 C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\Debug\garbagecollector.Migrations.ZipCode.resources
+C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\Debug\garbagecollector.Migrations.role.resources
