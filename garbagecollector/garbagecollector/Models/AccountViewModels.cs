@@ -48,11 +48,13 @@ namespace garbagecollector.Models
 
     public class LoginViewModel
     {
-        [Required]
+        //[Required]
         [Display(Name = "Email")]
         [EmailAddress]
         public string Email { get; set; }
-
+        [Display(Name ="User Name")]
+        [Required]
+        public string UserName { get; set; }
         [Required]
         [DataType(DataType.Password)]
         [Display(Name = "Password")]
@@ -67,7 +69,22 @@ namespace garbagecollector.Models
         [Required]
         [EmailAddress]
         [Display(Name = "Email")]
+
         public string Email { get; set; }
+        [Display(Name = "User Name"), Required]
+        public string UserName { set; get; }
+
+        [Display(Name = "Address"), Required]
+        public string Address { set; get; }
+
+        [Display(Name = "City"), Required]
+        public string City { set; get; }
+
+        [Display(Name = "State"), Required]
+        public string State { set; get; }
+
+        [Display(Name = "Zip Code"), Required]
+        public string ZipCode { set; get; }
 
         [Required]
         [StringLength(100, ErrorMessage = "The {0} must be at least {2} characters long.", MinimumLength = 6)]
