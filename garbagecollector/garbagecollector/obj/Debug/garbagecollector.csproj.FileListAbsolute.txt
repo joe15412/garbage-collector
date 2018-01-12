@@ -77,7 +77,6 @@ C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\bin\M
 C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\Debug\garbagecollector.csprojResolveAssemblyReference.cache
 C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\Debug\garbagecollector.dll
 C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\Debug\garbagecollector.pdb
 C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\Debug\garbagecollector.Migrations.InitialCreate.resources
@@ -87,3 +86,4 @@ C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\D
 C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\Debug\garbagecollector.Migrations.State.resources
 C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\Debug\garbagecollector.Migrations.ZipCode.resources
 C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\Debug\garbagecollector.Migrations.role.resources
+C:\Users\josep\Desktop\garbage collector\garbagecollector\garbagecollector\obj\Debug\garbagecollector.Migrations.customer.resources

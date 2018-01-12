@@ -15,7 +15,7 @@ namespace garbagecollector.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Joe's Garbage Collection";
 
             return View();
         }

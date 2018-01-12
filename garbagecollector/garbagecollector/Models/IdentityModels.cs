@@ -35,10 +35,12 @@ namespace garbagecollector.Models
         {
         }
 
+        public DbSet<Customer> Customer { get; set; }
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
         }
+
 
     }
 }
